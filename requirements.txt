@@ -1,0 +1,11 @@
+libtiff==0.4.1
+numpy==1.13.3
+olefile==0.44
+opencv-python==3.3.0.10
+Pillow==4.3.0
+progressbar2==3.34.3
+py-postgresql==1.2.1
+python-utils==2.2.0
+Shapely==1.6.2.post1
+six==1.11.0
+tqdm==4.19.4
